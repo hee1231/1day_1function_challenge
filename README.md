@@ -21,11 +21,11 @@
 
 <br>
 
-출처: https://github.com/moonhee0507/1day-1function-challenge
-
-<br>
-
 ## 정보
 
 <a href="https://www.notion.so/f776796efe434a6fbdbbd0d931a602c9" target="_blank"><img src="https://img.shields.io/badge/노션-000000?style=round-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCcABz4NaQQcLY2KxDNqr9-g/videos" target="_blank"><img src="https://img.shields.io/badge/유튜브-FF0000?style=round-square&logo=Youtube&logoColor=white"/></a>
+
+<br>
+
+출처: https://github.com/moonhee0507/1day-1function-challenge
