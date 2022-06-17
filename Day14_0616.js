@@ -7,6 +7,6 @@ Array(100).fill(1).map((value, index) => value + index);
 // 문자열로 바꾸기
 
 Array(100).fill(1).map((value, index) => value + index) + '';
-(Array(100).fill(1).map((value, index) => value + index) + '').splite('8');
-(Array(100).fill(1).map((value, index) => value + index) + '').splite('8').length-1;
-(Array(10000).fill(1).map((value, index) => value + index) + '').splite('8').length-1;
+(Array(100).fill(1).map((value, index) => value + index) + '').split('8');
+(Array(100).fill(1).map((value, index) => value + index) + '').split('8').length-1;
+(Array(10000).fill(1).map((value, index) => value + index) + '').split('8').length-1;
