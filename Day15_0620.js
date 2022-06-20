@@ -12,4 +12,4 @@ class Student {
 }
 
 const 학생1 = new Student("김도희", 27);
-console.log(학생1, hello());
+console.log(학생1.hello());
